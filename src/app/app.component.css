@@ -1,0 +1,12 @@
+.container{
+    display: inline-block;
+}
+
+
+.vertical-line {
+    border-left: 1px solid black; /* Change the color and thickness as needed */
+    height: 40px; /* Adjust the height as needed */
+    margin: 0 20px; /* Adjust the margin as needed */
+}
+
+
